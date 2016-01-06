@@ -1,4 +1,4 @@
-# [odraudek99 Page - Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# [odraudek99 Page ](http://odraudek99.com/)
 
 Template from http://startbootstrap.com/template-overviews/grayscale/
 
